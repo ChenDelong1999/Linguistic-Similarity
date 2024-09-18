@@ -15,7 +15,7 @@
 <img src="doc/cuhk.png" alt="Logo" width="16">
 
 
-<img src="doc/cuhk_with_text.png" alt="Logo" width="90">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="doc/cuhk_with_text.png" alt="Logo" width="150">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="doc/hkust_with_text.png" alt="Logo" width="90"> 
 
 
