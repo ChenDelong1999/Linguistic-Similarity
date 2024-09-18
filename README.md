@@ -3,19 +3,19 @@
 ## 🔍 Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models
 
 [Xinyu Zhou](https://www.linkedin.com/in/xinyu-zhou2000/)
-<img src="doc/cuhk.png" alt="Logo" width="12">, &nbsp; &nbsp;
+<img src="doc/cuhk.png" alt="Logo" width="16">, &nbsp; &nbsp;
 [Delong Chen](https://chendelong.world/)
 <img src="doc/hkust.png" alt="Logo" width="12">, &nbsp; &nbsp;
 [Samuel Cahyawijaya](https://samuelcahyawijaya.github.io/)
 <img src="doc/hkust.png" alt="Logo" width="12">, &nbsp; &nbsp;
 
 [Xufeng Duan](https://xufengduan.github.io/)
-<img src="doc/cuhk.png" alt="Logo" width="12">, &nbsp; &nbsp;
+<img src="doc/cuhk.png" alt="Logo" width="16">, &nbsp; &nbsp;
 [Zhenguang G. Cai](https://sites.google.com/site/zhenguangcai/)
-<img src="doc/cuhk.png" alt="Logo" width="12">
+<img src="doc/cuhk.png" alt="Logo" width="16">
 
 
-<img src="doc/cuhk_with_text.png" alt="Logo" width="90">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="doc/cuhk_with_text.png" alt="Logo" width="120">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="doc/hkust_with_text.png" alt="Logo" width="90"> 
 
 
