@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🔍 Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models
+## 🔍 Linguistic Minimal Pairs Elicit Linguistic Similarity in <br> Large Language Models
 
 [Xinyu Zhou](https://www.linkedin.com/in/xinyu-zhou2000/)
 <img src="doc/cuhk.png" alt="Logo" width="16">, &nbsp; &nbsp;
