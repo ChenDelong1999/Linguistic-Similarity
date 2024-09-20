@@ -1,6 +1,6 @@
 <div align="center">
 
-## Linguistic Minimal Pairs Elicit Linguistic Similarity in <br> Large Language Models
+## [Linguistic Minimal Pairs Elicit Linguistic Similarity in <br> Large Language Models](https://arxiv.org/abs/2409.12435)
 
 [**Xinyu Zhou (周欣宇)**](https://www.linkedin.com/in/xinyu-zhou2000/)*
 <img src="doc/cuhk.png" alt="Logo" width="20"> &nbsp; &nbsp;
@@ -20,14 +20,14 @@
 
 \* *Equal Contribution*
 
-<!-- [ArXiv]() |
+<!-- [ArXiv](https://arxiv.org/abs/2409.12435) |
 Data (Coming Soon) -->
 
 </div>
 
 
-<!-- ## News
-- **2024.09.20**. Our paper is available on arXiv [(arXiv link)](). -->
+## News
+- **2024.09.20**. Our paper is available on arXiv [(2409.12435)](https://arxiv.org/abs/2409.12435).
 
 ## Introduction
 
@@ -113,3 +113,27 @@ print(f'Linguistic similarity: {linguistic_similarity:.4f}')
 ## Pre-computed Activation Differences and Linguistic Similarities of 104 LLMs
 
 Coming soon.
+
+
+## Code for Reproducing the Analysis
+
+Coming soon.
+
+
+## Citation
+
+If you find this work helpful, please consider citing our paper:
+
+```bibtex
+@article{zhou2024linguistic,
+  author       = {Xinyu Zhou and
+                  Delong Chen and
+                  Samuel Cahyawijaya and
+                  Xufeng Duan and
+                  Zhenguang G. Cai},
+  title        = {Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models},
+  journal      = {CoRR},
+  volume       = {abs/2409.12435},
+  year         = {2024}
+}
+```
