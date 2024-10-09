@@ -27,7 +27,8 @@ Data (Coming Soon) -->
 
 
 ## News
-- **2024.09.20**. Our paper is available on arXiv [(2409.12435)](https://arxiv.org/abs/2409.12435).
+- **2024.10.09**.  Our paper has been accepted by NeurIPS 2024 Workshop on Foundation Model Interventions ([🍃MINT](https://sites.google.com/view/mint-2024/home)). 
+- **2024.09.20**. Our paper is available on arXiv ([2409.12435](https://arxiv.org/abs/2409.12435)).
 
 ## Introduction
 
