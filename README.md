@@ -27,6 +27,7 @@ Data (Coming Soon) -->
 
 
 ## News
+- **2024.12.02**.  Our paper has been accepted by COLING 2025 (long paper) as an oral presentation!
 - **2024.10.09**.  Our paper has been accepted by NeurIPS 2024 Workshop on Foundation Model Interventions ([🍃MINT](https://sites.google.com/view/mint-2024/home)). 
 - **2024.09.20**. Our paper is available on arXiv ([2409.12435](https://arxiv.org/abs/2409.12435)).
 
